@@ -1,4 +1,4 @@
-# full-pad-npm-package
+﻿# full-pad-npm-package
 
 This repository contains the source code and npm package for `@yash580o/full-pad`.
 
