@@ -1,6 +1,6 @@
 {
-  "name": "full-pad",
-  "version": "1.0.0",
+  "name": "@yash580o/full-pad",
+  "version": "1.0.1",
   "description": "Adding give element to string (start)test(middle)string(end).",
   "keywords": [
     "FULL-PAD"
